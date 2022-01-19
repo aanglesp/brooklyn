@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="40" viewBox="0 0 115 40">
+  <g id="Grupo_1812" data-name="Grupo 1812" transform="translate(13812 16414)">
+    <g id="Grupo_1811" data-name="Grupo 1811" transform="translate(37.746 0.788)">
+      <text id="mastercard" transform="translate(-13810 -16380)" fill="#666" font-size="7" font-family="ProximaNova-Medium, Proxima Nova" font-weight="500"><tspan x="0" y="0">mastercard</tspan></text>
+      <path id="Icon_simple-mastercard" data-name="Icon simple-mastercard" d="M18.193,28.443c.093.079.192.157.29.234a11.9,11.9,0,1,1,0-19.816,2.455,2.455,0,0,0-.265.241,12.793,12.793,0,0,0-.021,19.341ZM26.6,6.876a11.833,11.833,0,0,0-6.584,1.986,2.455,2.455,0,0,1,.265.241A12.793,12.793,0,0,1,20.3,28.443c-.093.079-.192.157-.29.234A11.9,11.9,0,1,0,26.6,6.876Zm-7.352,2.55c-.154.12-.3.241-.449.37a11.887,11.887,0,0,0,0,17.947c.144.128.3.253.449.372.154-.119.3-.244.449-.372A11.887,11.887,0,0,0,19.7,9.8C19.551,9.668,19.4,9.546,19.247,9.426Z" transform="translate(-13811.746 -16416.664)" fill="#666"/>
+    </g>
+    <rect id="Rectángulo_3712" data-name="Rectángulo 3712" width="115" height="40" transform="translate(-13812 -16414)" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,78 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    background-color: #EBEBEB;
+    .contenedor{
+        display: flex;
+        flex-direction: column;
+        width: 60%;
+        .promotors{
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            margin-top: 5%;
+            padding-bottom: 5%;
+            border-bottom: 1px solid #BCBCBC;
+            .prom{
+                width: 115px;
+                display: flex;
+                flex-direction: column;
+                align-items:center;
+                span{
+                    font-family: 'arial';
+                    font-weight: 400;
+                    font-size: 13px;
+                    color: #666666;
+                }
+            }
+        }
+        .links{
+            width: 100%;
+            display: flex;
+            justify-content: space-around;
+            .listlinks{
+                text-decoration: none;
+                list-style: none;
+                margin-top: 2%;
+            }
+            .sociallist{
+                display: flex;
+                flex-direction: column;
+                margin-top: 2%;
+                .social{
+                    display: flex;
+                    align-items: center;
+                    img{
+                        width: 25px;
+                        height: 25px;
+                        margin-left: 5%;
+                    }
+                }
+                .download{
+                    display: flex;
+                    flex-direction: column;
+                    img{
+                        margin: 7%;
+                    }
+                }
+            }
+        }
+        .copyright{
+            margin-top:10%;
+            margin-bottom: 5%;
+            span{
+                color: #666666;
+                font-size: 14px;
+                font-family: 'arial';
+                font-weight: 400;
+            }
+        }
+    }
+}
+.footerlinks{
+    font-family: 'arial';
+    font-weight: 400;
+    font-size: 14px;
+    color: #666666;
+}
