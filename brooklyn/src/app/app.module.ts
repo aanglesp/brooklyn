@@ -8,6 +8,8 @@ import { SecondToolbarComponent } from './second-toolbar/second-toolbar.componen
 import { FooterComponent } from './footer/footer.component';
 import { BodyComponent } from './body/body.component';
 import { SameComponent } from './same/same.component';
+import { MatSliderModule } from '@angular/material/slider';
+import {MatMenuModule} from '@angular/material/menu';
 
 @NgModule({
   declarations: [
@@ -20,7 +22,9 @@ import { SameComponent } from './same/same.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    MatSliderModule,
+    MatMenuModule
   ],
   providers: [],
   bootstrap: [AppComponent]

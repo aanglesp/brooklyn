@@ -238,9 +238,9 @@
                     <button class="buynow" style="background-color: #0089D0;">
                         Comprar Ahora
                     </button>
-                    <button class="buycar">
+                    <button class="buycar" id="buycar"[ngClass]="{'buycarunselected' : toggle, 'buycarselected': !toggle}" (onclick)="enableDisableRule()">
                         <img src="../../assets/images/shopcarblue.svg" alt="">
-                        Agregado
+                        Agregar
                     </button>
                 </div>
                 <span class="titleleft">Información del Vendedor</span>
