@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="MDI_check-bold" data-name="MDI / check-bold" transform="translate(0.133 0.133)">
+    <g id="Boundary" transform="translate(-0.133 -0.133)" fill="#0089d0" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <path id="Path_code-tags-check" data-name="Path / code-tags-check" d="M23.977,11.59l-9.556,9.556L10.086,16.8,8.42,18.465l6,6.012L25.642,13.256Z" transform="translate(-5.883 -7.216)" fill="#0089d0" stroke="#0089d0" stroke-width="0.5"/>
+  </g>
+</svg>

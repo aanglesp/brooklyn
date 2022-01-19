@@ -1,0 +1,76 @@
+.container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    .contenedor{
+        display: flex;
+        flex-direction: column;
+        margin:1% 0 3% 0;
+        width: 60%;
+        .title{
+            font-family: 'arial';
+            font-weight: bold;
+            color: #2A2A2A;
+            font-size: 20px;
+        }
+        .rowproducts{
+            display: flex;
+            .producto{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+                margin-bottom: 5%;
+                width: 206px;
+                height: 376px;
+                margin-right: 2%;
+                .imagen{
+                    margin-right: 3%;
+                    height: 206px;
+                }
+                .descriptionproduct{
+                    padding-bottom: 40%;
+                    display: flex;
+                    flex-direction: column;
+                    height: 100%;
+                    justify-content: space-around;
+                    .priceoldmore{
+                        font-size: 14px;
+                        font-weight: 400;
+                        text-decoration: line-through;
+                        font-family: "arial";
+                        color: #666666;
+                    }
+                    div{
+                        display: flex;
+                        align-items: center;
+                        .pricenewmore{
+                            font-size: 20px;
+                            font-weight: bold;
+                            font-family: "arial";
+                            color: #2A2A2A;
+                        }
+                        .dsctomore{
+                            font-size: 11px;
+                            font-weight: bold;
+                            font-family: "arial";
+                            color: #FF342E;
+                            margin-left: 3%;
+                        }
+                    }
+                    .descmore{
+                        font-size: 14px;
+                        font-weight: 400;
+                        font-family: "arial";
+                        color: #2A2A2A;
+                    }
+                    .deliverymore{
+                        color: #0089D0;
+                        font-size: 12px;
+                        font-weight: bold;
+                        font-family: "arial";
+                    }
+                }
+            }
+        }
+    }
+}

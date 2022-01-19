@@ -7,6 +7,7 @@ import { MainToolbarComponent } from './main-toolbar/main-toolbar.component';
 import { SecondToolbarComponent } from './second-toolbar/second-toolbar.component';
 import { FooterComponent } from './footer/footer.component';
 import { BodyComponent } from './body/body.component';
+import { SameComponent } from './same/same.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { BodyComponent } from './body/body.component';
     MainToolbarComponent,
     SecondToolbarComponent,
     FooterComponent,
-    BodyComponent
+    BodyComponent,
+    SameComponent
   ],
   imports: [
     BrowserModule,

@@ -1,0 +1,7 @@
+<svg id="MDI_help" data-name="MDI / help" xmlns="http://www.w3.org/2000/svg" width="21.052" height="21.052" viewBox="0 0 21.052 21.052">
+  <g id="Boundary" fill="#ff342e" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+    <rect width="21.052" height="21.052" stroke="none"/>
+    <rect x="0.5" y="0.5" width="20.052" height="20.052" fill="none"/>
+  </g>
+  <path id="Path_help" data-name="Path / help" d="M9.509,16.912H12.14v2.632H9.509V16.912M11.263,2a5.1,5.1,0,0,1,3.947,8.482c-.728.877-1.9,1.456-2.482,2.193a3.692,3.692,0,0,0-.588,2.482H9.509a6.558,6.558,0,0,1,.588-3.579,10.335,10.335,0,0,1,2.482-1.974c2.123-1.965,1.6-4.746-1.316-4.974A2.632,2.632,0,0,0,8.632,7.263H6A5.263,5.263,0,0,1,11.263,2Z" transform="translate(-0.737 -0.246)" fill="#ff342e"/>
+</svg>
